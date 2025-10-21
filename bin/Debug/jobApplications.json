@@ -1,0 +1,80 @@
+[
+  {
+    "Id": 1,
+    "Company": "DPSA(Government Printing Works)",
+    "Position": "Application Managemnt Intern",
+    "ReferenceNumber": "GPW2025/22",
+    "ApplicationDate": "2025-10-13T00:00:00",
+    "Status": "Applied",
+    "ApplicationMethod": "Email",
+    "ClosingDate": "2025-10-20T00:00:00",
+    "Notes": "App lifecycle | C#/MySQL backend | Submitted 17-10-2025",
+    "ContactPerson": "Ms DD Madiba / Ms NW Mathibela",
+    "ContactEmail": "Gpw.ICTIntern@gpw.gov.za"
+  },
+  {
+    "Id": 2,
+    "Company": "DPSA",
+    "Position": "ICT SECURITY",
+    "ReferenceNumber": "GPW2025/23",
+    "ApplicationDate": "2025-10-13T00:00:00",
+    "Status": "Applied",
+    "ApplicationMethod": "Email",
+    "ClosingDate": "2025-10-20T00:00:00",
+    "Notes": "ICT Security \u0026 Governance focus | Network security \u0026 risk management skills | Ref: GPW2025-23 | Submitted [Date]",
+    "ContactPerson": "Ms DD Madiba",
+    "ContactEmail": "Gpw.ICTIntern@gpw.gov.za"
+  },
+  {
+    "Id": 3,
+    "Company": "DPSA",
+    "Position": "Infrastructure Management Intern",
+    "ReferenceNumber": "GPW2025/24",
+    "ApplicationDate": "2025-10-13T00:00:00",
+    "Status": "Applied",
+    "ApplicationMethod": "Email",
+    "ClosingDate": "2025-10-20T00:00:00",
+    "Notes": "Infrastructure Management focus | Network deployment \u0026 system config skills | Ref: GPW2025-24 ",
+    "ContactPerson": "Ms NW Mathibela",
+    "ContactEmail": "Gpw.ICTIntern@gpw.gov.za"
+  },
+  {
+    "Id": 4,
+    "Company": "DPSA",
+    "Position": "Senior ICT Technician",
+    "ReferenceNumber": "08/2025",
+    "ApplicationDate": "2025-10-13T00:00:00",
+    "Status": "Applied",
+    "ApplicationMethod": "Email",
+    "ClosingDate": "2025-10-17T00:00:00",
+    "Notes": "Senior ICT Technician | Technical support \u0026 infrastructure skills | Ref: 08/2025 | Salary: R397k | Closing: 17 Oct",
+    "ContactPerson": "Ms M Masilela",
+    "ContactEmail": "Recruitment08@dpme.gov.za"
+  },
+  {
+    "Id": 5,
+    "Company": "BROADMEDIA",
+    "Position": "Junior Software Developer",
+    "ReferenceNumber": "N/A",
+    "ApplicationDate": "2025-10-13T00:00:00",
+    "Status": "Applied",
+    "ApplicationMethod": "Post",
+    "ClosingDate": "2025-10-27T00:00:00",
+    "Notes": "Familarity with developing,debugging, and optimizing software",
+    "ContactPerson": "N/A",
+    "ContactEmail": "N/A"
+  },
+  {
+    "Id": 6,
+    "Company": "Greenway Farms",
+    "Position": "IT Technician",
+    "ReferenceNumber": "GWR251010-1",
+    "ApplicationDate": "2025-10-14T00:00:00",
+    "Status": "Applied",
+    "ApplicationMethod": "Online",
+    "ClosingDate": "2025-10-23T00:00:00",
+    "Notes": "solutions-oriented IT Technician with a strong focus on network infrastructure and end-user support. ",
+    "ContactPerson": "N/A",
+    "ContactEmail": "N/A"
+  }
+]

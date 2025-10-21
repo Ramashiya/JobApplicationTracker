@@ -1,0 +1,28 @@
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\Job Application Tracker.exe.config
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\Job Application Tracker.exe
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\Job Application Tracker.pdb
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.Buffers.dll
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.Memory.dll
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.Text.Json.dll
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.ValueTuple.dll
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.Buffers.xml
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.Memory.xml
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.Text.Json.xml
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\bin\Debug\System.ValueTuple.xml
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\obj\Debug\Job Application Tracker.csproj.AssemblyReference.cache
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\obj\Debug\Job Application Tracker.csproj.CoreCompileInputs.cache
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\obj\Debug\Job Appl.6FA88604.Up2Date
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\obj\Debug\Job Application Tracker.exe
+C:\Users\ramas\source\repos\Job Application Tracker\Job Application Tracker\obj\Debug\Job Application Tracker.pdb
